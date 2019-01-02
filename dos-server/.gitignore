@@ -1,0 +1,15 @@
+# Recursive
+target
+build
+*.iml
+*.ipr
+*.iws
+DS_Store
+.gradle
+.vagrant
+.idea
+out
+
+/tmp/
+/etc/
+/logs/
